@@ -1,6 +1,6 @@
 # AtliQ-Grands-Hospitality-Analysis
 
-[Live Dashboard]{https://app.powerbi.com/view?r=eyJrIjoiNzdiZGIxNGYtODBmNS00NDc5LTg5NTgtZTUyYzI1MDRjYzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9}
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiZGIxNGYtODBmNS00NDc5LTg5NTgtZTUyYzI1MDRjYzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Overview
