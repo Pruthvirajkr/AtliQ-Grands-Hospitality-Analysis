@@ -6,6 +6,7 @@
 ## Project Overview
 > AtliQ Grands, the owner of numerous five-star hotels throughout India, has been a prominent figure in the hospitality sector for two decades. Recent challenges stemming from competitive strategies and management decisions have led to a decline in market share and revenue within the luxury and business hotel segment. In response, the managing director of AtliQ Grands aims to implement "Business and Data Intelligence" as a strategic initiative to reclaim their market position and revenue. However, the company currently lacks an internal data analytics team capable of delivering these crucial insights.
 
+
 ## Project Goals
 >- Enhance market share and revenue within the luxury business hotel segment.
 >- Implement data-driven strategies and business intelligence for informed decision-making.
@@ -22,12 +23,23 @@
 >- DURN(Daily Utilize Room Nights)
 >- WOW Change %
 
+
 ## Power BI Learnings
 >- Creating calcualted columns and DAX measures.
 >- Data Modelling ,data validation techniques and using KPI indicators.
 >- Page navigation with buttons.
 >- Tooltips to save page area.
 >- PowerBI services for publishing and sharing reports online.
+
+
+## Key Findings
+>- Mumbai led revenue generation at ₹669M, with Delhi recording the lowest at ₹290.92M.
+>- The luxury segment accounted for 61.62% of total revenue, outperforming the business category.
+>- Weekend occupancy rates were higher by 7% compared to weekdays, influencing revenue patterns.
+
+
+## Conclusion
+> This project showcases the application of Power BI and SQL skills in the hospitality domain, providing actionable insights for strategic decision-making at AtliQ Grands. 
 
 
 
