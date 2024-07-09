@@ -2,7 +2,7 @@
 
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiZGIxNGYtODBmNS00NDc5LTg5NTgtZTUyYzI1MDRjYzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[Click here for the complete dataset](https://codebasics.io/resources/end-to-end-data-analyst-project)
+[Click here to get the dataset](https://codebasics.io/resources/end-to-end-data-analyst-project)
 
 
 ## Project Overview
