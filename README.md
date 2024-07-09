@@ -33,9 +33,9 @@
 
 
 ## Key Findings
->- Mumbai led revenue generation at ₹669M, with Delhi recording the lowest at ₹290.92M.
->- The luxury segment accounted for 61.62% of total revenue, outperforming the business category.
->- Weekend occupancy rates were higher by 7% compared to weekdays, influencing revenue patterns.
+>- Mumbai generated the highest revenue at ₹669 million, while Delhi recorded the lowest at ₹290.92 million.
+>- The luxury segment contributed 61.62% of the total revenue, surpassing the business category.
+>- Weekend occupancy rates were 7% higher compared to weekdays, significantly impacting revenue trends.
 
 
 ## Conclusion
